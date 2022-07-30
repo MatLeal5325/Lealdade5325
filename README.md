@@ -23,3 +23,4 @@
   <a href="https://www.instagram.com/lee.al_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
+![Snake animation] https://github.com/Lealdade5325/Lealdade5325/edit/main/README.md
