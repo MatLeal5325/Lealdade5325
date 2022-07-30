@@ -30,6 +30,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lealdade5325&repo=Lealdade5325&theme=react)](https://github.com/Lealdade5325/Lealdade5325)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lealdade5325&repo=Lealdade5325&theme=jolly)](https://github.com/Lealdade5325/Lealdade5325)
   
 
