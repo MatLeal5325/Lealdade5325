@@ -1,11 +1,9 @@
-<h1> Hi! My name is Matheus :) </h1>
+<h3> Hi! My name is Matheus Leal :) </h3>
 
-<div>
-  
+<div align="center">
   <a href="https://github.com/Lealdade5325">
-  <img height="180em" align="center" src="https://githubreadmestats.vercel.app/apiusername=Lealdade5325&show_icons=true&theme=react&include_all_commits=true&count_private=false" />
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lealdade5325&layout=compact&langs_count=7&theme=react" />
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lealdade5325&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lealdade5325&layout=compact&langs_count=7&theme=jolly"/>
 </div>
  <br>
 <div  align="center">
@@ -20,7 +18,11 @@
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     
 </div>
-  <br><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+##
+
+<div>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
